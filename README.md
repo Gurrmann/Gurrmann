@@ -17,6 +17,7 @@ Currently studying my 2nd year at the Sofware Engineering & Management bachelor 
 <img width="30px" align="left" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_git.svg">
 <img width="30px" src="https://img.icons8.com/officel/2x/console.png">
 
+<!--START_SECTION:activity-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gurrmann&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
