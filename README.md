@@ -1,3 +1,4 @@
+<!--
 ### Hello there I'm Gustav 👋
 
 Currently studying my 2nd year at the Software Engineering & Management bachelor program at Gothenburg University
